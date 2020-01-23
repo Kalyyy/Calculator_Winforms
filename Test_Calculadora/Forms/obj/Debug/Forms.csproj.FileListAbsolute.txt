@@ -1,0 +1,12 @@
+C:\Users\Kali\Desktop\Test_Calculadora\Forms\bin\Debug\Forms.exe.config
+C:\Users\Kali\Desktop\Test_Calculadora\Forms\bin\Debug\Forms.exe
+C:\Users\Kali\Desktop\Test_Calculadora\Forms\bin\Debug\Forms.pdb
+C:\Users\Kali\Desktop\Test_Calculadora\Forms\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Kali\Desktop\Test_Calculadora\Forms\obj\Debug\Forms.formCalculadora.resources
+C:\Users\Kali\Desktop\Test_Calculadora\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\Kali\Desktop\Test_Calculadora\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Kali\Desktop\Test_Calculadora\Forms\obj\Debug\Forms.exe
+C:\Users\Kali\Desktop\Test_Calculadora\Forms\obj\Debug\Forms.pdb
+C:\Users\Kali\Desktop\Test_Calculadora\Forms\bin\Debug\Clases.dll
+C:\Users\Kali\Desktop\Test_Calculadora\Forms\bin\Debug\Clases.pdb
+C:\Users\Kali\Desktop\Test_Calculadora\Forms\obj\Debug\Forms.csproj.CopyComplete

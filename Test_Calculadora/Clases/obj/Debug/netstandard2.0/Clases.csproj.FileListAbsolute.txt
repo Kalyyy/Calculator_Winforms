@@ -1,0 +1,7 @@
+C:\Users\Kali\Desktop\Test_Calculadora\Clases\bin\Debug\netstandard2.0\Clases.deps.json
+C:\Users\Kali\Desktop\Test_Calculadora\Clases\bin\Debug\netstandard2.0\Clases.dll
+C:\Users\Kali\Desktop\Test_Calculadora\Clases\bin\Debug\netstandard2.0\Clases.pdb
+C:\Users\Kali\Desktop\Test_Calculadora\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfoInputs.cache
+C:\Users\Kali\Desktop\Test_Calculadora\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfo.cs
+C:\Users\Kali\Desktop\Test_Calculadora\Clases\obj\Debug\netstandard2.0\Clases.dll
+C:\Users\Kali\Desktop\Test_Calculadora\Clases\obj\Debug\netstandard2.0\Clases.pdb
